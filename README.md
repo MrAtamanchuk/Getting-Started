@@ -1,2 +1,5 @@
 # Getting-Started
-Getting Started is created to learn this program and get practice using it.
+
+Hello Class.
+
+My name is Mr. Atamanchuk. This year we will be learning about programming and how it works.
